@@ -1,1 +1,3 @@
 # Bodhi
+
+Leetcode daily record
